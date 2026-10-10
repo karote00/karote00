@@ -36,9 +36,9 @@ I'm starting with a robot workcell to build the architecture for a larger goal: 
 
 A greenhouse modeling workspace with structures, crops, and a robot concept. The scene exists; patrol and harvesting simulation are still ahead.
 
-[![FieldScope: a modeled greenhouse with crop rows](https://raw.githubusercontent.com/karote00/asyra/main/apps/asyra-framework-site/public/product-evidence/fieldscope-greenhouse.webp)](https://fieldscope.pages.dev/)
+[![FieldScope: a modeled greenhouse with crop rows](https://raw.githubusercontent.com/karote00/asyra/main/apps/asyra-framework-site/public/product-evidence/fieldscope-greenhouse.webp)](https://asyra-fieldscope.pages.dev/)
 
-[Explore the greenhouse](https://fieldscope.pages.dev/) · [Source](https://github.com/karote00/asyra/tree/main/apps/fieldscope)
+[Explore the greenhouse](https://asyra-fieldscope.pages.dev/) · [Source](https://github.com/karote00/asyra/tree/main/apps/fieldscope)
 
 ## Make it easier to pick up the work.
 
