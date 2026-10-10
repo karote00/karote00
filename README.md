@@ -6,11 +6,11 @@
 
 I keep coming back to one question: **why should adding one feature require understanding the whole application?**
 
-Years before Asyra, I proposed this direction at my previous company. It wasn't adopted, but the idea stayed with me. After leaving, I wrote it down as [Communication-Driven Development (CDD)](https://github.com/karote00/cdd-example/tree/main/docs-site/docs/concept): start with what needs to be communicated, and make responsibilities clear to both the system and the people building it.
+Years before Asyra, I proposed this direction at my previous company. It wasn't adopted, but the idea stayed with me. After leaving, I wrote it down as [Communication-Driven Development (CDD)](https://cdd-docs.pages.dev/): start with what needs to be communicated, and make responsibilities clear to both the system and the people building it.
 
 [Asyra](https://github.com/karote00/asyra) grew out of those principles. I'm building it so the next person can understand, change, and extend a product without needing me beside them.
 
-[Read the CDD docs](https://github.com/karote00/cdd-example/blob/main/docs-site/docs/concept/what-is-cdd.md)
+[Read the CDD docs](https://cdd-docs.pages.dev/) · [Docs on GitHub](https://github.com/karote00/cdd-example/tree/main/docs-site/docs/concept)
 
 ## One foundation. Different worlds.
 
@@ -20,25 +20,25 @@ Asyra handles the shared infrastructure: editable state, transactions, Undo/Redo
 
 A canvas editor with editable vectors, Undo/Redo, and optional AI and collaboration. A working product built on the same foundation.
 
-[![Asyra Design: an editable cat drawing inside the canvas editor](https://raw.githubusercontent.com/karote00/asyra/main/apps/asyra-framework-site/public/product-evidence/asyra-design-7076-product-evidence.webp)](https://github.com/karote00/asyra/blob/main/docs/public/cases/asyra-design.md)
+[![Asyra Design: an editable cat drawing inside the canvas editor](https://raw.githubusercontent.com/karote00/asyra/main/apps/asyra-framework-site/public/product-evidence/asyra-design-7076-product-evidence.webp)](https://asyra-design.pages.dev/?fileId=demo)
 
-[Explore the editor](https://github.com/karote00/asyra/tree/main/apps/asyra-design) · [Follow the architecture](https://github.com/karote00/asyra/blob/main/docs/public/cases/asyra-design.md)
+[Try the editor](https://asyra-design.pages.dev/?fileId=demo) · [Source](https://github.com/karote00/asyra/tree/main/apps/asyra-design) · [Follow the architecture](https://github.com/karote00/asyra/blob/main/docs/public/cases/asyra-design.md)
 
 ### Simulation
 
 I'm starting with a robot workcell to build the architecture for a larger goal: simulating factory processes, including semiconductor fabs, to find problems before they happen on the floor. Over time, I want to bring my earthquake engineering background into building and factory safety analysis too. The current workbench explores geometry, clearance, and motion; it's an early development checkpoint.
 
-[![Asyra Sim: a robot workcell in the experiment workbench](https://raw.githubusercontent.com/karote00/asyra/main/apps/asyra-framework-site/public/product-evidence/asyra-sim-workcell.webp)](https://github.com/karote00/asyra/tree/main/apps/asyra-sim)
+[![Asyra Sim: a robot workcell in the experiment workbench](https://raw.githubusercontent.com/karote00/asyra/main/apps/asyra-framework-site/public/product-evidence/asyra-sim-workcell.webp)](https://asyra-sim.pages.dev/)
 
-[Explore the workbench](https://github.com/karote00/asyra/tree/main/apps/asyra-sim)
+[Try the workbench](https://asyra-sim.pages.dev/) · [Source](https://github.com/karote00/asyra/tree/main/apps/asyra-sim)
 
 ### FieldScope
 
 A greenhouse modeling workspace with structures, crops, and a robot concept. The scene exists; patrol and harvesting simulation are still ahead.
 
-[![FieldScope: a modeled greenhouse with crop rows](https://raw.githubusercontent.com/karote00/asyra/main/apps/asyra-framework-site/public/product-evidence/fieldscope-greenhouse.webp)](https://github.com/karote00/asyra/tree/main/apps/fieldscope)
+[![FieldScope: a modeled greenhouse with crop rows](https://raw.githubusercontent.com/karote00/asyra/main/apps/asyra-framework-site/public/product-evidence/fieldscope-greenhouse.webp)](https://fieldscope.pages.dev/)
 
-[Explore the greenhouse](https://github.com/karote00/asyra/tree/main/apps/fieldscope)
+[Explore the greenhouse](https://fieldscope.pages.dev/) · [Source](https://github.com/karote00/asyra/tree/main/apps/fieldscope)
 
 ## Make it easier to pick up the work.
 
